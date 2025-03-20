@@ -1,7 +1,7 @@
 Quantum gate SAT synthesis
 ==========================
 
-This is the repository associated with the paper [arXiv:2503.xxxxxx](https://arxiv.org/abs/2503.xxxxx).
+This is the repository associated with the paper [arXiv:2503.15452](https://arxiv.org/abs/2503.15452).
 The method is introduced in the paper.
 
 Files are:
