@@ -3,6 +3,7 @@ Quantum gate SAT synthesis
 
 This is the repository associated with the paper [arXiv:2503.15452](https://arxiv.org/abs/2503.15452).
 The method is introduced in the paper.
+Updated for parallel gates on classical reversible case following [arXiv:2602.05425](https://arxiv.org/abs/2602.05425).
 
 Files are:
 * sat_synthesis.py: main file: implementation of the translation of the exact gate synthesis problem to SAT
